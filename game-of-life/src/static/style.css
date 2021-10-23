@@ -1,0 +1,28 @@
+html,
+#patterns {
+  font: 16px sans-serif;
+}
+
+body {
+  color: #fff;
+  background: #000;
+  text-align: center;
+}
+
+#patterns,
+canvas {
+  border-radius: 0.25rem;
+}
+
+#patterns {
+  width: 12.5rem;
+  padding: 0.375rem;
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+main {
+  padding: 1rem 0;
+}
