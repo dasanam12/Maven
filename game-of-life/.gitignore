@@ -1,8 +1,0 @@
-.idea
-.vscode
-.directory
-.DS_Store
-.cache
-dist
-node_modules
-package-lock.json
